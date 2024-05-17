@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Run Cyber Chief Scans from Jenkins using Cyber Chief Security Scanner Plugin.
+Run [Cyber Chief](https://www.cyberchief.ai/) web application security tests, autonomous [Bolt API security tests](https://www.cyberchief.ai/p/api-security-tool.html) and Raider Cloud Security Posture Management tests from Jenkins using Cyber Chief plugin that is built natively for your Jenkins environment.
 
 
 ### Download and Install Cyber Chief Scanner plugin in Jenkins
